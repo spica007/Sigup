@@ -1,6 +1,6 @@
 body
 {
-	font-family: Tahoma, geneva, sans-serif;
+	font-family: Times New Roman, Times, serif;
 	color: #fff;
 	background: url(sss.jpg);
 	background-size: cover;
@@ -29,7 +29,7 @@ input
 	border: none;
 	border-bottom: 1px solid #fff;
 	font-family: 'Play', sans-serif;
-	font-size: 16px;
+	font-size: 18px;
 	font-weight: 200px;
 	padding:  10px 0;
 	transition: border 0.5s;
@@ -42,7 +42,7 @@ input[type=button]
 	width: 190px;
 	background: white;
 	color: #000;
-	font-size: 16px;
+	font-size: 18px;
 	line-height: 25px;
 	padding: 10px 0;
 	border-radius: 15px;
